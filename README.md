@@ -1,4 +1,4 @@
-**[Версия на русском языке](https://github.com/afillimonov/MCServerAdder/blob/main/README-ru.md)**
+**[Версия на русском языке](https://github.com/afillimonov/FallingFix/blob/main/README-ru.md)**
 # 🛠 FallingFix
 
 ## Description
